@@ -22,6 +22,7 @@ Requirements:
 ```
   python 1.Stereographic Projection.ipynb
 ```
+ Resultat:
 ![image](https://user-images.githubusercontent.com/52626643/130878759-2df22965-10fd-4343-83b5-7d8eda68222e.png)
  
 

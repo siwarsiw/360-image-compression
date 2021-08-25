@@ -1,6 +1,6 @@
 # 360-image-compression
 
-Architecture:
+## Architecture<h1>:
 
 ![image](https://user-images.githubusercontent.com/52626643/130815272-5eb5c339-7eb0-4bc9-986d-ea7fcb8349e1.png)
 
@@ -18,3 +18,4 @@ Requirements:
 5. Python SKimage
 
 How to use this code ?
+

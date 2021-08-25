@@ -20,6 +20,6 @@ Requirements:
 ## 1. Projection stéréographique (La premiere etape): <h1>
   
 ```
-  
+  python 1.Stereographic Projection.ipynb
 ```
-
+Juste le chemin de l image est a modifier a chaque fois 

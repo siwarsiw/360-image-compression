@@ -17,5 +17,9 @@ Requirements:
 4. Python PIL
 5. Python SKimage
 
-How to use this code ?
+## 1. Projection stéréographique (La premiere etape): <h1>
+  
+```
+  
+```
 

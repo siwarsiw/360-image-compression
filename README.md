@@ -24,7 +24,7 @@ Requirements:
 ```
 Juste le chemin de l image est a modifier a chaque fois.
  Input :
-  ![7fB65](https://user-images.githubusercontent.com/52626643/130878082-6fed98e1-d5b1-463d-98ee-7d508a59d72d.jpg)
+  ![7fB65](https://user-images.githubusercontent.com/52626643/130878082-6fed98e1-d5b1-463d-98ee-7d508a59d72d.jpg = 250x250)
  Output :
 ![split_0_2](https://user-images.githubusercontent.com/52626643/130878144-23be5f23-8683-473b-b89e-d5bca3a339ca.jpg)
 ![split_1_2](https://user-images.githubusercontent.com/52626643/130878149-2c472032-efee-4931-a5dd-8cca8a2ec3f8.jpg width="200" height="400")

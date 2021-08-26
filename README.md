@@ -39,9 +39,16 @@ Requirements:
 ## 4. Réseau de compression: <h1>
   ![image](https://user-images.githubusercontent.com/52626643/130880870-8e10af0b-289c-400e-9675-a926cc73366e.png)
    ###### *Encoding* <h6>
+  ```
+  python encode.py --model save/model --input kodim05.png --iters 24 --output compressed.npz
 
+  ```
 
-  
+  ###### *Decoding* <h6>
+ ```
+    python decode.py --model save/model --input compressed.npz --output compressed.png
+
+ ```
   
   
   

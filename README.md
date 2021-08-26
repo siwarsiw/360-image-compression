@@ -2,7 +2,7 @@
 
 ## Architecture<h1>
 
-![image](https://user-images.githubusercontent.com/52626643/130815272-5eb5c339-7eb0-4bc9-986d-ea7fcb8349e1.png)
+![image](https://user-images.githubusercontent.com/52626643/130976944-406b5ae7-719f-45f8-9298-e40159fdc7b7.png)
 
 Il se compose de quatre gros parties :
 1. Projection stéréographique

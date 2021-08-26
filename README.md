@@ -16,6 +16,8 @@ Requirements:
 3. Pandas
 4. Python PIL
 5. Python SKimage
+  
+Dataset : https://aliensunmin.github.io/project/360-dataset/
 
 ## 1. Projection stéréographique (La premiere etape): <h1>
   
@@ -49,6 +51,9 @@ Requirements:
     python decode.py --model save/model --input compressed.npz --output compressed.png
 
  ```
+ ## Result <h1>
+  
+
   
   
   

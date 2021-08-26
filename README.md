@@ -27,7 +27,7 @@ Requirements:
 ## 2. Réseau d'Analyse Sémantique: <h1>
 
  ```
-  generate_map.py <image_file>
+  python generate_map.py <image_file>
 ```
  ###### La sortie est dans le fichier 'output'. <h6>
   ![image](https://user-images.githubusercontent.com/52626643/130879540-048f1cfd-6966-4ec3-8afe-c527f02ae026.png)

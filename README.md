@@ -25,9 +25,8 @@ Requirements:
 ![image](https://user-images.githubusercontent.com/52626643/130878759-2df22965-10fd-4343-83b5-7d8eda68222e.png)
  
 ## 2. Réseau d'Analyse Sémantique: <h1>
- ```
-  python 1.Stereographic Projection.ipynb
-```
+
+  ```
   generate_map.py <image_file>
 ```
   La sortie est dans le fichier 'output'.

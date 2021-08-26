@@ -31,7 +31,7 @@ Requirements:
 ```
   La sortie est dans le fichier 'output'.
   ![image](https://user-images.githubusercontent.com/52626643/130879540-048f1cfd-6966-4ec3-8afe-c527f02ae026.png)
-  ![image](https://user-images.githubusercontent.com/52626643/130879566-bd8b54bd-fbde-4c23-8bf2-7367801ee4f3.png)
+    	![image](https://user-images.githubusercontent.com/52626643/130879566-bd8b54bd-fbde-4c23-8bf2-7367801ee4f3.png)
 
 
   

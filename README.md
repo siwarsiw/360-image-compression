@@ -24,8 +24,7 @@ Dataset : https://aliensunmin.github.io/project/360-dataset/
 ```
   python 1.Stereographic Projection.ipynb
 ```
-![image](https://user-images.githubusercontent.com/52626643/130878759-2df22965-10fd-4343-83b5-7d8eda68222e.png)
- 
+![image](https://user-images.githubusercontent.com/52626643/130977364-8aeb9217-bc3f-440b-b503-8326ed7e1baf.png) 
 ## 2. Réseau d'Analyse Sémantique: <h1>
 
  ```

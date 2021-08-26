@@ -33,6 +33,9 @@ Requirements:
   ![image](https://user-images.githubusercontent.com/52626643/130879540-048f1cfd-6966-4ec3-8afe-c527f02ae026.png)
   
 ## 3. Compression Bit allocation algorithm : <h1>
+```
+  python Compression-bit-allocation-algo <image_file>
+```
 
 
   

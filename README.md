@@ -50,7 +50,7 @@ Dataset : https://aliensunmin.github.io/project/360-dataset/
     python decode.py --model save/model --input compressed.npz --output compressed.png
 
  ```
- ## Result <h1>
+ ## Résultat <h1>
   #### Image Originale <h4>
   ![7l0vX](https://user-images.githubusercontent.com/52626643/130887340-5f83d223-f249-4baa-9c36-84685d80cb27.jpg)
  #### Image compressée <h4>

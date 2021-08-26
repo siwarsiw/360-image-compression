@@ -52,9 +52,9 @@ Dataset : https://aliensunmin.github.io/project/360-dataset/
 
  ```
  ## Result <h1>
-  ###### Image Originale <h6>
+  #### Image Originale <h4>
   ![7l0vX](https://user-images.githubusercontent.com/52626643/130887340-5f83d223-f249-4baa-9c36-84685d80cb27.jpg)
- ###### Image compressée <h6>
+ #### Image compressée <h4>
 
 ![image](https://user-images.githubusercontent.com/52626643/130973773-a480e125-c13e-45e3-855a-2bd1d53b1b79.png)
 
